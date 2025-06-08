@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 // Tamanho fixo do tabuleiro
 
 #define TAMANHO 10
@@ -7,6 +8,7 @@
 // Valor que representa a parte de um navio
 
 #define NAVIO 3
+
 
 int main() {
     // 1. Declaração e inicialização da matriz do tabuleiro (10x10)
